@@ -62,10 +62,7 @@ Best Model: **Random Forest Classifier**
 ---
 
 ## Dashboard Preview
-
-(Add your screenshots here)
-
-![Dashboard](<img width="1536" height="1024" alt="POWER BI DASH BOARD" src="https://github.com/user-attachments/assets/fe2df33c-7d94-4dc6-bee2-7878d97ef25d" />)
+(<img alt="POWER BI DASH BOARD" src="https://github.com/user-attachments/assets/0f8117cb-dfd2-455e-b964-3be06c1b3264" />)
 
 ---
 
@@ -128,3 +125,4 @@ MCA Student
 ## License
 
 This project is for academic and educational purposes.
+
