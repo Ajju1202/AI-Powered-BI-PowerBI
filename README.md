@@ -65,7 +65,7 @@ Best Model: **Random Forest Classifier**
 
 (Add your screenshots here)
 
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](<img width="1536" height="1024" alt="POWER BI DASH BOARD" src="https://github.com/user-attachments/assets/fe2df33c-7d94-4dc6-bee2-7878d97ef25d" />)
 
 ---
 
